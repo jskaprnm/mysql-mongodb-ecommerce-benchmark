@@ -1,0 +1,8 @@
+file,records,columns,missing_cells,duplicate_full_rows
+walmart.csv,550068,10,0,0
+users.csv,5891,7,0,0
+products.csv,3631,2,0,0
+transactions_1000.csv,1000,4,0,0
+transactions_10000.csv,10000,4,0,0
+transactions_15000.csv,15000,4,0,0
+transactions_20000.csv,20000,4,0,0
